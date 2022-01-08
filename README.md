@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AFvisions
 - 👀 I’m interested in ... Art and Code
 - 🌱 I’m currently learning ... HTML, CSS, Javascript
-- 💞️ I’m looking to collaborate on ... graphics and code, freelance, a financial comapny rebranding, Dungeons and Dragons campaign, passive forms of income.
+- 💞️ I’m looking to collaborate on ... graphics and code, freelance, a financial comapany rebranding, Dungeons and Dragons campaign, passive forms of income.
 - 📫 How to reach me ...
 
 <!---
