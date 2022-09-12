@@ -3,12 +3,15 @@
   
 </head>
 <body>
-<table bgcolor="gray>
+<table style="background-color: red">
   <tr>
     <td align="center">
-                      <h2 color="red">Hi</h2>
+                      <h2>Hi</h2>
     </td>
   </tr>
+  <tr>
+    <td>
+                                     <h2> I'm an Email Designer </h2>                        
 </table>
 </body>
 
