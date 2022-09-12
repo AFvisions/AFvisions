@@ -1,11 +1,12 @@
 <html>
 <head>
+  
 </head>
 <body>
-<table>
+<table bgcolor="gray>
   <tr>
     <td align="center">
-    Hi
+                      <h2 color="red">Hi</h2>
     </td>
   </tr>
 </table>
