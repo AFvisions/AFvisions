@@ -1,5 +1,20 @@
+<html>
+<head>
+</head>
+<body>
+<table>
+  <tr>
+    <td align="center">
+    Hi
+    </td>
+  </tr>
+</table>
+</body>
+
+
+
 - 👋 Hi, I’m @AFvisions
-- 👀 I’m interested in ... Art and Code
+- 👀 I’m interested in ... Email Code!
 - 🌱 I’m currently learning ... HTML + CSS
 - 💞️ I’m looking to collaborate on ... Email Development
 - 📫 How to reach me ... www.AFvisions.com
